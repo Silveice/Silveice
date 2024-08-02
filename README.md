@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Silveice
-- 👀 I’m interested in java.
-- 🌱 I’m currently learning java.
+- 👀 I’m interested in C++.
+- 🌱 I’m currently learning C++ and UE5.
 - 💞️ I’m still learning.
 - 📫 Send an email to Silveice@outlook.com
 
